@@ -1,0 +1,59 @@
+.image1{
+    width: 15%;
+    padding: 0% 3%;
+    margin-bottom:10% ;
+    height: 15%;
+
+
+}
+.logo1{
+    width: 100px;
+    height: 100px;
+}
+
+.logo2{
+    width: 100px;
+    height: 100px;
+
+}
+.logo3{
+    width: 100px;
+    height: 100px;
+
+}
+.logo4{
+    width: 100px;
+    height: 100px;
+}
+.order{
+    background-color: rgb(114, 114, 158);
+    float: right;
+    
+    
+}
+.scan{
+    background-color: rgb(119, 165, 150);
+    float: right;
+    ;
+}
+.active{
+    background-color: rgb(179, 166, 168);
+    float: right;
+}
+.heading2{
+    text-align: center;
+}
+.nav{
+    background-color: aliceblue;
+    height: 20px;
+    margin-top: 15px;
+    text-align: center;
+    padding:0px 10px 0px
+    
+
+}
+.heading2{
+    margin: 0 auto;
+    padding-top: 10%;
+    text-align: center;
+}
